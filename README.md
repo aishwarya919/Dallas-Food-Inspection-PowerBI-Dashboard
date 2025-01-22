@@ -1,7 +1,5 @@
 # Ensuring Food Safety: A Data-Driven Analysis of Dallas Food Inspections
 
----
-
 ## Overview
 
 This project focuses on analyzing food inspection data from various establishments in Dallas, Texas. The dataset includes comprehensive information on inspection results, detailing the number and types of violations recorded during each inspection. The goal of this project is to uncover insights into food safety compliance, identify trends, and propose actionable recommendations to improve food safety practices in the city.
