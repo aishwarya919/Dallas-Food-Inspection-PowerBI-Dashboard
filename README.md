@@ -1,4 +1,4 @@
-# Dallas-Food-Inspection-PowerBI-Dashboard
+# Ensuring Food Safety: A Data-Driven Analysis of Dallas Food Inspections
 
 ---
 
